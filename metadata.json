@@ -1,0 +1,6 @@
+{
+  "name": "OmniDesk CS & OMS",
+  "description": "Integrated enterprise customer service desk and omni-channel order management system with live ticketing, fulfillment workflows, and customer self-service portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
